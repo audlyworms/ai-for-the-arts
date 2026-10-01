@@ -8,5 +8,3 @@ This document and coding environment are for an AI for the Arts and Humanities c
 2. understand how AI is implemented in every day technologies
 3. understand what the hecky is going on
 4. feel less anxious around computers - what are they doing in there? 
-
-![wizard frog!](/assets/images/wizard frog.JPG)
