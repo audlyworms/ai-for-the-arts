@@ -9,4 +9,4 @@ This document and coding environment are for an AI for the Arts and Humanities c
 3. understand what the hecky is going on
 4. feel less anxious around computers - what are they doing in there? 
 
-![wizard frog!](wizard frog.jpg)
+![wizard frog!](/assets/images/wizard frog.JPG "wizard frog')
